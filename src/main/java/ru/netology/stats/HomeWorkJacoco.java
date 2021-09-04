@@ -7,6 +7,6 @@ public class HomeWorkJacoco {
         for (long income : incomes)
             if (current_max < income)
                 current_max = income;
-            return current_max;
+                    return current_max;
     }
 }
